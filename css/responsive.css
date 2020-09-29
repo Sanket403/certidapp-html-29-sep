@@ -1,0 +1,40 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 720px)
+{
+    .h2_custom{font-size: 20px;}
+    .container_arr{padding: 20px;}
+    .Padd_edit{padding: 20px;}
+    .card_height{padding: 15px;}
+    .ul_arrange{padding: 0 !important;}
+    .blkg-section.blkg-section-2{padding: 15px;}
+    .social-links li{padding: 8px;}
+    .contact-detail, .connect-with{margin: 10px 0 10px 0;}
+    .text_align{text-align: center;}
+    /* .btn_certApp {width: 50%;} */
+    .cont_pos{position: relative;}
+    .h1_custom_padding{padding: 20px;}
+    /* .width_arr{width: 100%;}
+    .nav_pos{position: absolute; left: 49%; top:0;  }
+    .btn_certApp{width: 100%;} */
+    .hero-wrap .text h1{font-size: 3.325em;}
+    .custom_margin_left{margin-left: 0 !important;}
+}
+
+body h1 {
+    font-size: 20px;
+}
+@media only screen and (max-width: 1024px)
+{
+    .social-links li{padding: 8px;}
+    .ul_arrange{padding: 0 !important;}
+    .Padd_edit {padding: 10px;}
+    .container_arr{margin-top: 30px; margin-bottom: 30px;}
+    .p_edit{font-size: 1.4rem;}
+    .card_height{padding: 20px;}
+    .cont_pos{position: relative;}
+    /* .width_arr{width: 100%;}
+    .nav_pos{position: absolute; left: 57%; top:0;  }
+    .btn_certApp{width: 100%;} */
+    .custom_margin_left{margin-left: 0 !important;}
+body h1 {
+    font-size: 20px;
+}
